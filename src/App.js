@@ -31,10 +31,10 @@ function App() {
             <NavigationBar/>
             <div style={{ padding: '20px' }}>
                 <Routes>
-                    <Route path="/home" element={<HomePage />} />
-                    <Route path="/about" element={<AboutPage />} />
-                    <Route path="/contact" element={<ContactPage />} />
-                    <Route path="/" element={<div> <img src={logo} className="App-logo" alt="logo" />
+                    <Route path="/wat2-testing/home" element={<HomePage />} />
+                    <Route path="/wat2-testing/about" element={<AboutPage />} />
+                    <Route path="/wat2-testing/contact" element={<ContactPage />} />
+                    <Route path="/wat2-testing/" element={<div> <img src={logo} className="App-logo" alt="logo" />
                         <p>
                           Lorem ipsum wali line 2
                         </p>

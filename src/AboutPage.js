@@ -6,7 +6,7 @@ const AboutPage = () => {
    const navigate = useNavigate();
 
     const handleMainClick = () => {
-        navigate('/');
+        navigate('/wat2-testing');
     };
 
 	return (

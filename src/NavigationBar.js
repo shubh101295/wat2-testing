@@ -5,15 +5,15 @@ const NavigationBar = () => {
     const navigate = useNavigate();
 
     const handleHomeClick = () => {
-        navigate('/home');
+        navigate('/wat2-testing/home');
     };
 
     const handleAboutClick = () => {
-        navigate('/about');
+        navigate('/wat2-testing/about');
     };
 
     const handleContactClick = () => {
-        navigate('/contact');
+        navigate('/wat2-testing/contact');
     };
 
     return (
